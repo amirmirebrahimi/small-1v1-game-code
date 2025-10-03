@@ -1,1 +1,3 @@
-print("testing the git hub")
+import pleyers
+p1 = pleyers.players ("Amir" , 20)
+p1.WhoIsThat()
