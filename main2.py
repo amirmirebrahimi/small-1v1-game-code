@@ -1,3 +1,3 @@
-import pleyers
-p1 = pleyers.players ("Amir" , 20)
-p1.WhoIsThat()
+import game
+
+game.game_run()
